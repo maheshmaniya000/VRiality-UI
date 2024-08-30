@@ -34,3 +34,9 @@ Follow these steps to set up the project on your local machine:
    ```
    npm run dev OR yarn dev
    ```
+## Contact Information
+
+For any inquiries or support, please reach out to us at:
+
+- **Email**: parth.waghlejyel@drjient.com
+- **Agency Website**: https://www.dignizant.com
